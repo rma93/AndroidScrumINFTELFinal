@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/new_project"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Nuevo Proyecto" />
+        <item
+            android:id="@+id/projects"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Mis Proyectos" />
+        <item
+            android:id="@+id/chatlist"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Chats" />
+    </group>
+
+    <item android:title="Opciones">
+        <menu>
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Salir" />
+        </menu>
+    </item>
+
+</menu>

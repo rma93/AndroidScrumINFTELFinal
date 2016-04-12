@@ -1,3 +1,42 @@
 <resources>
     <string name="app_name">AndroidScrumINFTEL</string>
+    <string name="title_activity_my_projects">Mis Proyectos</string>
+    <string name="title_activity_new_projects">Crear Proyecto</string>
+    <string name="title_activity_task">Nueva Tarea</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="status_arrays">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string name="action_gcm_register">Notification Enabled</string>
+    <string name="action_gcm_unregister">Disable Notifications</string>
+    <string name="action_sign_out">Sign out from project</string>
+    <string name="projectId">ProjectId</string>
+    <string name="notificationsEnabled">Notifications Enabled</string>
+    <string name="notificationDisabled">Notification Disabled</string>
+    <string name="ListChat">Chat List</string>
+    <string name="projectName">Project Name</string>
+    <string name="title_activity_chat">Chat</string>
+    <string name="send_message">Send</string>
+    <string name="action_save">Guardar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_my_proyect">MyProyect</string>
+    <string name="title_activity_send">SendActivity</string>
+    <string name="my_text">Eres un nuevo miembro del proyecto</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_download">Descargar</string>
+
+    <string name="preference_file_key">SharedPreferences</string>
 </resources>
